@@ -16,6 +16,7 @@ public class Client {
 		System.out.println("java is loaded");
 		Student stu=con.getBean("student",Student.class);
 		System.out.println("stu object is created");
+		System.out.println("hello");
 		stu.display();
 		con.close();
 		}
