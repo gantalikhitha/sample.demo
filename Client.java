@@ -9,7 +9,7 @@ public class Client {
 	
 	public static void main(String[] args) {
 	
-		
+	//chnge is done	
 //		AnnotationConfigApplicationContext con=new AnnotationConfigApplicationContext(StudentConfiguration.class);
 		
 		AnnotationConfigApplicationContext con=new AnnotationConfigApplicationContext(StudentConfiguration.class);
