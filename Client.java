@@ -10,6 +10,7 @@ public class Client {
 	public static void main(String[] args) {
 	
 	//chnge is done	
+		//chnge is done by ppp
 //		AnnotationConfigApplicationContext con=new AnnotationConfigApplicationContext(StudentConfiguration.class);
 		
 		AnnotationConfigApplicationContext con=new AnnotationConfigApplicationContext(StudentConfiguration.class);
